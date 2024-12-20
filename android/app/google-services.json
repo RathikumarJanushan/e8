@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517860411324",
+    "project_id": "e8delevery",
+    "storage_bucket": "e8delevery.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517860411324:android:c564cf092a28c563ea0db9",
+        "android_client_info": {
+          "package_name": "com.example.e8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD421G28IMyYggxboAmo0JBoD3ffwWv_K4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
